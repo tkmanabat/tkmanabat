@@ -7,7 +7,7 @@
   
   
 
-I am ***Tim***! I am a 3rd year **struggling college student** trying to create deep/machine learning models to predict and to analyze data and crawl thru life. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source 😲
+I am ***Tim***! I am a 4th year **struggling college student** trying to create deep/machine learning models to predict and to analyze data and crawl thru life. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source 😲
   
 - 💬 Ask me about anything, I would be delighted to help!
 - 👯 I’m looking to collaborate on projects anything about **Machine Learning**, **Natural Language Processing**, and **Computer Vision**
