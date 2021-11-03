@@ -3,7 +3,7 @@
   <img src='https://komarev.com/ghpvc/?username=tkmanabat&style=flat-square&label=SNIPERS+x+LURKERS+Counter&color=grey'/>
   <br>
   <img src="https://img.shields.io/badge/-tkmanabat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkmanabat@gmail.com">
-  <a href="https://www.linkedin.com/in/tkmanabat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin badge" style="width:42px;height:42px;"></a>
+  <a href="https://www.linkedin.com/in/tkmanabat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   
 
