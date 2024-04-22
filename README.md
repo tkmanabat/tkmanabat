@@ -7,7 +7,7 @@
   
   
 
-I am ***Tim***! I am a 4th year CS Student trying to train deep/machine learning models and crunch numbers:
+I am ***Tim***! I am trying to train ML models and crunch numbers:
   
 - 💬 Ask me about anything, I would be delighted to help!
 - 👯 I’m looking to collaborate on projects anything about **Machine Learning**, **Natural Language Processing**, and **Computer Vision**
